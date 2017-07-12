@@ -1,0 +1,25 @@
+{
+  "name": "new-webpack-config",
+  "version": "0.0.1",
+  "description": "webpack configuration learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajainsyn/new-webpack-config.git"
+  },
+  "keywords": [
+    "node",
+    "webpack",
+    "react",
+    "babel"
+  ],
+  "author": "abhishek Jain <abhishek_jain4@syntelinc.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajainsyn/new-webpack-config/issues"
+  },
+  "homepage": "https://github.com/ajainsyn/new-webpack-config#readme"
+}
